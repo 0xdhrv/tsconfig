@@ -1,0 +1,27 @@
+{
+	"name": "@0xdhrv/tsconfig",
+	"version": "1.0.0",
+	"description": "Shared TypeScript config for my projects",
+	"license": "MIT",
+	"repository": "0xdhrv/tsconfig",
+	"author": {
+		"name": "Dhruv",
+		"email": "hi@dhrv.pw",
+		"url": "https://dhrv.pw"
+	},
+	"main": "tsconfig.json",
+	"engines": {
+		"node": ">=14"
+	},
+	"files": [
+		"tsconfig.json"
+	],
+	"keywords": [
+		"0xdhrv",
+		"tsconfig",
+		"typescript",
+		"ts",
+		"config",
+		"configuration"
+	]
+}
